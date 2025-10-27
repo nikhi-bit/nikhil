@@ -1,3 +1,4 @@
 # nikhil
 my first Github repository<br>
-author nikhil shrivastav
+author nikhil shrivastava
+
